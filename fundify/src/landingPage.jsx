@@ -626,7 +626,7 @@ return (
             <div className="flex flex-row gap-6 items-center justify-center mt-[7%] ">
                                     <p className="popmed text-xl ">Made with</p>
                                     <img src={heart} alt="" className="size-8" />
-                                    <p className="popmed text-xl ">by rima bli</p>
+                                    <p className="popmed text-xl ">by rima bouali</p>
 
                             </div>      
       </div>
